@@ -171,7 +171,7 @@ td.sobremesa > p {
 
 
 div.promocao {
-  width: 100%;
+  width: 100vw;
   height: 90%;
   padding-top: 3vmax;
   margin: 0px;
@@ -188,7 +188,7 @@ img#SaikiPromo {
 }
 
 img#SaikiNome {
-  margin-left: 40%;
+  margin-left: 23vmax;
   width: 33vmax;
 }
 
