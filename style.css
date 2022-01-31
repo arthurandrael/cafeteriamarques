@@ -15,6 +15,7 @@
 
 body {
   background-color: #F2E2CE;
+  width: 100vw;
 }
 
 
@@ -180,14 +181,14 @@ div.promocao {
 
 img#SaikiPromo {
   position: relative;
-  width: 55vmax;
-  height: 30vmax;
-  padding-left: 3.8vmax;
+  width: 50vmax;
+  height: 27vmax;
+  padding-left: 3vmax;
   padding-top: 1vmax;
 }
 
 img#SaikiNome {
-  margin-left: 43.8%;
+  margin-left: 40%;
   width: 33vmax;
 }
 
